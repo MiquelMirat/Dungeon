@@ -7,7 +7,7 @@
 //
 
 
-//github, corazones, navigationBar? //////aadasdasdasdasdasdasqweq123124
+//github, corazones, navigationBar? 
 import UIKit
 import SpriteKit
 
