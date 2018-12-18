@@ -45,7 +45,7 @@ class ShopViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDa
             availableItems = getAvailableItems()
             shopPicker .reloadAllComponents()
         }else{
-            print("u frinckung poor")
+            print("u freacking poor")
         }
     }
     

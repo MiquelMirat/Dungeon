@@ -6,6 +6,8 @@
 //  Copyright © 2018 Miquel Maria Mirat. All rights reserved.
 //
 
+
+//github, corazones, navigationBar?
 import UIKit
 import SpriteKit
 
